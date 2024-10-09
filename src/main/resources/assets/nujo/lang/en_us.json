@@ -1,0 +1,13 @@
+{
+  "item.nujo.nujo_tool_group": "Nujo's BrainWorlds|Tools",
+  "item.nujo.magic_paintbrush": "Magic Paintbrush",
+
+  "item.nujo.nujo_item_group": "Nujo's BrainWorlds|Items",
+  "item.nujo.imaginational_core" : "Imaginational Core",
+
+  "block.nujo.nujo_block_group": "Nujo's BrainWorlds|Blocks",
+  "block.nujo.imagination_block": "Imaginational Block",
+
+  "container.nujo.imaginational_block.activation": "Activate Imagination"
+
+}

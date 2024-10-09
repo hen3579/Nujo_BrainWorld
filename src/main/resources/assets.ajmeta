@@ -1,0 +1,35 @@
+{
+	"nujo_entity": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/nujo_entity/nujo_texture.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/nujo_entity/nujo/left_leg.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/left_calf.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/foot.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/right_leg.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/right_calf.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/foot2.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/chest.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/belly.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/wrest.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/head.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/earrings.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/hairs.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/forehair.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/face.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/left_arm.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/bigarm.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/hand.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/fingers.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/fingers2.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/fingers3.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/right_arm.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/bigarm2.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/hand2.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/fingers4.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/fingers5.json",
+			"assets/animated_java/models/item/nujo_entity/nujo/fingers6.json"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "activated=false" : {
+      "model": "nujo:block/imaginational_block"
+    },
+    "activated=true" :{
+      "model": "nujo:block/imaginational_block_active"
+    }
+  }
+}
+s

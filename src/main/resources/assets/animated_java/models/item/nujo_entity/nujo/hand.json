@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/nujo_entity/nujo_texture"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7, -7, 7],
+			"to": [10, -5, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, -8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [7, 1.25, 7.375, 1.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [9.125, 5.625, 9.5, 5.875],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [9.25, 1, 9.625, 1.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9.25, 2.25, 9.625, 2.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [9.375, 9.375, 9, 9],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [9.5, 1.5, 9.125, 1.875],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "item.nujo.nujo_tool_group": "怒九的脑洞世界|工具",
+  "item.nujo.magic_paintbrush": "魔术画笔",
+
+  "item.nujo.nujo_item_group": "怒九的脑洞世界|物品",
+  "item.nujo.imaginational_core" : "幻象核心",
+
+  "block.nujo.nujo_block_group": "怒九的脑洞世界|方块",
+  "block.nujo.imaginational_block": "幻象方块",
+
+  "container.nujo.imaginational_block.activation": "幻象激活"
+
+}
